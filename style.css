@@ -1,0 +1,46 @@
+html {
+    background-color: #CE3A3A;
+}
+
+.container {
+    border-radius: 100%;
+    box-shadow: 0.7em -0.7em 0.6em #cc9191, 0.5em 0.5em 0.4em #630808, -0.5em 0.5em 0.4em#c45858, -0.5em -0.5em 0.4em #351818;
+    width: 40%;
+    height: 95%;
+    background-color: #f8f1f1;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container #header h1 {
+    padding-top: 10px;
+    font-size: 3 em;
+    color: #CE3A3A;
+}
+
+.card-body {
+    font-size: 1.2em;
+    max-width: 60%;
+    text-align: center;
+}
+
+.button {
+    background-color: #f8f1f1;
+    outline: none;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+button i {
+    color: #CE3A3A;
+}
+
+img {
+    width: 40%;
+    height: auto;
+}
